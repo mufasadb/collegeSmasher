@@ -1,0 +1,2 @@
+Entity,EnrolmentCohortID,CustomerCode,CustomerID,CourseID,Course,Sector,StartStudyPeriod,StartYear,StartPeriodAcademicStart,EndStudyPeriod,EnrolmentStatus
+ACAP,540376,10069,685460,12104,MCounsPT,HE,2017T1,2017,13/02/2017,2017T1,Withdrawn
